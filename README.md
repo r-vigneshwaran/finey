@@ -1,0 +1,2 @@
+# finey
+financial management app
